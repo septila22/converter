@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "http://chord.septila.com/p/load.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "http://chord.septila.com/p/nggarap.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
