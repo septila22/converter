@@ -26,7 +26,7 @@ if(x=="2"){xxx="/2018/09/7-signs-you-are-missing-gadget.html"}
 if(x=="3"){xxx="/2018/09/you-can-drive-motorcycle-trail-for.html"}
 if(x=="4"){xxx="/2018/09/oculus-quest-vr-headset-launched-can-be.html"}
 if(x=="5"){xxx="/2018/09/anti-stress-these-5-zodiacs-are-most.html"}
-if(x=="6"){xxx="/2018/09/penguji.html"}a_to_ve[i].href="http://chord.septila.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="6"){xxx="/2018/09/penguji.html"}a_to_ve[i].href="https://chord.septila.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
